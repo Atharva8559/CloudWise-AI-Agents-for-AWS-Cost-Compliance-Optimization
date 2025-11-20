@@ -77,7 +77,7 @@ CloudWise continuously monitors your AWS environment for:
 http://15.206.90.7:8501/
 
 ### 2. Source Code:
-git clone https://github.com/Rajat-silvo/AI-Agent-AWS-Hackathon.git
+git clone https://github.com/Atharva8559/CloudWise-AI-Agents-for-AWS-Cost-Compliance-Optimization.git
 
 ### 3. Run Locally:
 
